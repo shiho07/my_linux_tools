@@ -1,6 +1,6 @@
-#my_linux_tools
-
+# my_linux_tools
 Linuxの授業で作成した自作コマンド集です
-
-##showpath
+## showpath
 PATHの中身を1行ずつ表示します
+
+Linuxコマンドがんばるぞ✌️
